@@ -1,0 +1,29 @@
+author: Diksha Verma, 13-05-2020 @22:49
+P0-Unscramble Computer Science Problems
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Task0.py-
+Time Complexity: O(1)
+Description: Input does not affect run time, hence the time is constant. 
+----------------------------------------------------------------------------
+
+Task1.py-
+Time Complexity: O(n)
+Description: Two lists are looped through once each. { O(2*n) -> O(n) }
+----------------------------------------------------------------------------
+
+Task2.py-
+Time Complexity: O(n)
+Description:For loop on the List is looped through once
+----------------------------------------------------------------------------
+
+Task3.py-
+Time Complexity: O(n+nlogn)
+Description: Python sort function is used and for loop.
+-----------------------------------------------------------------------------
+
+Task4.py-
+Time Complexity: O(n+nlogn)
+Description: Python sort function is used and for loop.
+
+
